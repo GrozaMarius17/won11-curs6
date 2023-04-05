@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f039e7c4-502a-42ae-bd9c-c3e1f1c0ad2e" name="Changes" comment="add Interfaces" />
+    <list default="true" id="f039e7c4-502a-42ae-bd9c-c3e1f1c0ad2e" name="Changes" comment="add Interfaces">
+      <change afterPath="$PROJECT_DIR$/src/Interfaces2/Citizen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces2/Rebel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces2/Romanian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces2/RomanianOmvWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -25,6 +35,29 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="add Interfaces" />
+        <option name="rewordedMessage" value="add Interfaces" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="2e2e2ac464082cdfa9af8e367ef37236bd9ab49b" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="85f220d7-1674-4124-a190-c1fa79d834ad" />
+        <option name="url" value="https://github.com/GrozaMarius17/won11-curs6.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -34,13 +67,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/WON11/curs6.1/won11-curs6/src"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/WON11/curs6.1/won11-curs6/src&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\WON11\curs6.1\won11-curs6\src" />
@@ -69,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680699112731</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add Interfaces">
+      <created>1680699231222</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680699231222</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
