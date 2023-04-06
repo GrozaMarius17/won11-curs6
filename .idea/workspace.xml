@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f039e7c4-502a-42ae-bd9c-c3e1f1c0ad2e" name="Changes" comment="add BankAccount and ING">
-      <change afterPath="$PROJECT_DIR$/src/homework7Ex2/BT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework7Ex2/Marius.java" afterDir="false" />
+    <list default="true" id="f039e7c4-502a-42ae-bd9c-c3e1f1c0ad2e" name="Changes" comment="add BankAccount and ING and BT">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework7Ex2/BT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework7Ex2/BT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework7Ex2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework7Ex2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework7Ex2/Marius.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680789184956</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add BankAccount and ING and BT">
+      <created>1680810877355</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680810877356</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,7 +167,8 @@
     <MESSAGE value="add Interfaces" />
     <MESSAGE value="add provider1" />
     <MESSAGE value="add BankAccount and ING" />
-    <option name="LAST_COMMIT_MESSAGE" value="add BankAccount and ING" />
+    <MESSAGE value="add BankAccount and ING and BT" />
+    <option name="LAST_COMMIT_MESSAGE" value="add BankAccount and ING and BT" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

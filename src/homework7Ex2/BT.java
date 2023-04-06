@@ -18,7 +18,7 @@ public class BT implements BankAccount {
 
     @Override
     public double withdraw(double sumToWithdraw) {
-        if (totalSum > sumToWithdraw) {
+        if (totalSum < sumToWithdraw) {
             return -1;
         }
         totalSum = totalSum - sumToWithdraw;
