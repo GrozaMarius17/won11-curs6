@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f039e7c4-502a-42ae-bd9c-c3e1f1c0ad2e" name="Changes" comment="add Interfaces">
-      <change afterPath="$PROJECT_DIR$/src/staticpackage/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticpackage/Main.java" afterDir="false" />
+    <list default="true" id="f039e7c4-502a-42ae-bd9c-c3e1f1c0ad2e" name="Changes" comment="add BankAccount and ING">
+      <change afterPath="$PROJECT_DIR$/src/homework7Ex2/BT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework7Ex2/Marius.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework7Ex2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework7Ex2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +55,7 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/homework7Ex2/BT.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/staticpackage/Main.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -114,7 +116,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680702417188</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add provider1">
+      <created>1680781222873</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680781222873</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add BankAccount and ING">
+      <created>1680789184956</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680789184956</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,7 +158,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add Interfaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Interfaces" />
+    <MESSAGE value="add provider1" />
+    <MESSAGE value="add BankAccount and ING" />
+    <option name="LAST_COMMIT_MESSAGE" value="add BankAccount and ING" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
