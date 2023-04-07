@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f039e7c4-502a-42ae-bd9c-c3e1f1c0ad2e" name="Changes" comment="add BankAccount and ING and BT">
+    <list default="true" id="f039e7c4-502a-42ae-bd9c-c3e1f1c0ad2e" name="Changes" comment="add BankAccount and ING and BT and BRD">
+      <change afterPath="$PROJECT_DIR$/src/homework7ex3/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework7ex3/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework7ex3/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework7ex3/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework7ex3/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework7ex3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework7ex3/Mouse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework7Ex2/BT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework7Ex2/BT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework7Ex2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework7Ex2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework7Ex2/Marius.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +142,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680810877356</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add BankAccount and ING and BT">
+      <created>1680811504849</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680811504849</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add BankAccount and ING and BT and BRD">
+      <created>1680813469658</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680813469658</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,7 +187,8 @@
     <MESSAGE value="add provider1" />
     <MESSAGE value="add BankAccount and ING" />
     <MESSAGE value="add BankAccount and ING and BT" />
-    <option name="LAST_COMMIT_MESSAGE" value="add BankAccount and ING and BT" />
+    <MESSAGE value="add BankAccount and ING and BT and BRD" />
+    <option name="LAST_COMMIT_MESSAGE" value="add BankAccount and ING and BT and BRD" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
