@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f039e7c4-502a-42ae-bd9c-c3e1f1c0ad2e" name="Changes" comment="first commit from intellij">
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/Adprovider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/Email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/Facebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework7/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/content.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/curs10/ReadingFromFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/curs10/WritingToFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework10/RegexExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homework10/StudentGrad.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +26,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -85,7 +90,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="homework7" />
+                        <option value="Homework10" />
                       </list>
                     </value>
                   </entry>
